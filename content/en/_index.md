@@ -1,8 +1,8 @@
 ---
-title: TUMxLegRobot
+title: TUMxLegRobotics
 ---
 
-{{< blocks/cover title="TUMxLegRobot: Join us building a Quadrupped!" image_anchor="top" height="full" color="primary" >}}
+{{< blocks/cover title="TUMxLegRobotics: Join us building a Quadrupped!" image_anchor="top" height="full" color="primary" >}}
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="/docs/">
   Open positions <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>

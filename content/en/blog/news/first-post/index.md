@@ -1,7 +1,7 @@
 ---
 date: 2024-10-16
 title: Open call for students willing to join!
-linkTitle: TUMxLegRobot participation
+linkTitle: TUMxLegRobotics participation
 description: >
   We start building up hardware and organizing work!
 # author: Riona MacNamara ([@rionam](https://twitter.com/bepsays))
