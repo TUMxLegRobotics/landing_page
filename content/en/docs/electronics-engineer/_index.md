@@ -19,7 +19,7 @@ Our robot will have a bit bigger muscles ''/
 Have you seen capabilites of [MIT mini cheetah](https://youtu.be/xNeZWP5Mx9s?si=x8OoohQQlFV-ZDrr). What do you think, how important was the actuator design for this? What if I told you that these technologies are nothing fancy, and are being used all over the place? Ok ok, it **does** require some work, and experiance ;- *to do things right*, but what doesn't? So, not scared away yet? Check their actuator paper[[1]](https://fab.cba.mit.edu/classes/865.18/motion/papers/mit-cheetah-actuator.pdf). Or the [Thesis](https://dspace.mit.edu/handle/1721.1/118671) from the Ben Ketz(yeap, one student who built this actuator!)
 
 
-You know, at some point just working with regular PCBs gets boring?! How to make it interesting you ask? Ha, make it juuuucy :D Ok, basically powerful. You know, its physics baby. Devels advocate they say, how else to justify [this torture - get all the juice out of it!!](https://build-its-inprogress.blogspot.com/2018/07/fixed-noise-and-thermal-testing.html).
+You know, at some point just working with regular PCBs gets boring?! How to make it interesting you ask? Ha, make it juuuucy :D Ok, basically powerful. You know, its physics baby. Devels advocate they say, how else to justify [this torture !!](https://build-its-inprogress.blogspot.com/2018/07/fixed-noise-and-thermal-testing.html).
 
 
 **What you will gain:**
@@ -44,7 +44,7 @@ control
     - **Embedded system** programming, knowledge of C language
     - Working skills in **Ubuntu** operating system
 
-To apply, you can send your CV, and short motivation to:
+To apply, you can send email (please use **[LegRobotics]** in the subject line) with your CV, and short motivation to:
 
 Researcher:
 

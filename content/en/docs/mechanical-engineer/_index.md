@@ -38,7 +38,7 @@ So, what are the design requirements you say, [these are the requirements](https
     - **3D Printing**
     - Familiarity with **GIT**
 
-To apply, you can send your CV, and short motivation to:
+To apply, you can send email (please use **[LegRobotics]** in the subject line) with your CV, and short motivation to:
 
 Researcher
 
